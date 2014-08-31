@@ -9,3 +9,5 @@ def scream(words)
 end
 
 scream("Yippeee")
+
+# scream still returns nil 
